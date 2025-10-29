@@ -15,5 +15,19 @@ public class Project_1 {
 		System.out.println("INDIA");
 	}
 	
+	
+	
+	private void DUBAI() {
+		System.out.println("ARABIC");
+		
+	}
+	
+	private void CANADA() {
+		System.out.println("ENGLISH");
+		
+
+	}
+
+	
 
 }
