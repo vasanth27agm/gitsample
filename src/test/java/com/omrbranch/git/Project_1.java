@@ -27,6 +27,18 @@ public class Project_1 {
 		
 
 	}
+	
+	private void KERALA() {
+		System.out.println("MALAYALAM");
+		
+		
+
+	}
+	
+	private void ANDHRA() {
+		System.out.println("TELUNGU");
+
+	}
 
 	
 
