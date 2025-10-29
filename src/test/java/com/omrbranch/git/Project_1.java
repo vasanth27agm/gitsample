@@ -27,6 +27,18 @@ public class Project_1 {
 		
 
 	}
+	
+	private void TAMILNADU() {
+		System.out.println("TAMIL");
+		
+
+	}
+	
+	private void KARNADAKA() {
+	System.out.println("KANADAM");
+	
+
+	}
 
 	
 
