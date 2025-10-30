@@ -28,18 +28,27 @@ public class Project_1 {
 
 	}
 	
-	private void TAMILNADU() {
-		System.out.println("TAMIL");
+
+	private void KERALA() {
+		System.out.println("MALAYALAM");
+		
+
 		
 
 	}
+
+private void TAMILNADU() {
+	System.out.println("TAMIL");
 	
-	private void KARNADAKA() {
-	System.out.println("KANADAM");
-	
+}
+	private void ANDHRA() {
+		System.out.println("TELUNGU");
+
 
 	}
+private void KARNADAKA() {
+	System.out.println("KANADAM");
 
-	
+}
 
 }
